@@ -1,0 +1,138 @@
+.logo{
+  display: flex;
+  justify-content:space-evenly;
+  align-items: center;
+
+  
+}
+li {
+  font-size: 32px;
+margin-right: 20px;
+  list-style: none;
+  display: inline-block;
+  font-family: Space Grotesk;
+font-size: 20px;
+font-weight: 400;
+line-height: 28px;
+
+
+
+}
+ul{
+  
+}
+.left{
+  display: flex;
+  justify-content: space-evenly;
+  width: Hug (531px)px;
+height: Hug (481px)px;
+gap: 35px;
+opacity: 0px;
+
+
+}
+.logos{
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+.company{
+  filter: grayscale(1);
+}
+.company:hover{
+  transition: ease-in-out 1s;
+  filter: grayscale(0);
+}
+.service{
+  margin-left: 50px;
+  display: flex;
+  align-items: center;
+  gap: 40px;
+  padding: 20px;
+  margin-top: 150px;
+}
+.section{
+  align-items: center;
+
+  display: flex;
+  width: Hug (1,440px)px;
+height: Hug (310px)px;
+padding: 0px 100px 0px 100px;
+justify-content: center;
+gap: 500px;
+opacity: 0px;
+
+}
+.div1{
+  display: flex;
+
+  border: 1px solid black;
+  width: 600px;
+height: 310px;
+padding: 50px 0px 0px 0px;
+gap: 0px;
+border-radius: 45px;
+border: 1px 0px 0px 0px;
+justify: space-between;
+opacity: 0px;
+
+}
+.div2{
+  
+  display: flex;
+  gap: 50px;
+  
+  align-items: center;
+
+  background-color: #b9ff66;
+  width: 600px;
+height: 310px;
+padding: 50px 0px 0px 0px;
+
+border-radius: 45px ;
+border: 1px 0px 0px 0px;
+justify: space-between;
+opacity: 0px;
+
+}
+.image{
+  
+}
+text{
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+column-gap: 50px;
+}
+.abbu{
+  margin-left: 50px;
+  margin-right: 50px;
+  width: 1,234px;
+height: 279px;
+padding-left: 50px;
+padding-right: 50px;
+gap: 30px;
+border-radius: 45px ;
+border: 1px ;
+opacity: 0px;
+background-color: #b9ff66;
+border-bottom: 5px solid black;
+
+}
+.abbu1{
+  width: Fixed (1,234px)px;
+height: Hug (159px)px;
+margin-left: 50px;
+margin-right: 50px;
+margin-top:30px ;
+margin-bottom: 30px;
+padding-left: 50px;
+padding-right: 50px;
+gap: 10px;
+border-radius: 45px ;
+border: 1px 0px 0px 0px;
+opacity: 0.5px;
+background-color: #F3F3F3;
+border-bottom: 5px solid black;
+}
